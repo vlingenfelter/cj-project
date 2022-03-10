@@ -15,3 +15,6 @@ The packages used in this project are:
 - `matplotlib` and `seaborn` for data visualizations
 - `contextily` for adding tiled basemaps to maps
 - `matplotlib_scalebar` for adding scalebars to maps
+
+## Project Setup
+
